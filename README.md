@@ -23,7 +23,6 @@ My name is jose , I am a 20-year-old young programmer, educated, professional, a
   - *IES Camilo José Cela, Campillos, Málaga*
 
 - **Graphic Design (Freelance)**
-  - *2020 - 2022*
     
 ## Contact
 
