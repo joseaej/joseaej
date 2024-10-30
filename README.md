@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hello 👋
 
-## Profile
-A 20-year-old young programmer, educated, professional, and responsible at work. Capable of working in a team towards shared goals, with a strong ability to solve problems by seeking optimal and efficient solutions.
+My name is jose , I am a 20-year-old young programmer, educated, professional, and responsible at work. Capable of working in a team towards shared goals, with a strong ability to solve problems by seeking optimal and efficient solutions.
 
 ## Skills
 
@@ -15,7 +14,6 @@ A 20-year-old young programmer, educated, professional, and responsible at work.
 
 - **Cloud Services - AWS, Docker**
   
----
 ## Education
 
 - **Vocational Training in Multiplatform Application Development**
@@ -26,12 +24,12 @@ A 20-year-old young programmer, educated, professional, and responsible at work.
 
 - **Graphic Design (Freelance)**
   - *2020 - 2022*
----
+    
 ## Contact
 
 - **Email:** armandoespi25@gmail.com
 - **LinkedIn:** [linkedin.com/in/joseespjim](https://www.linkedin.com/in/joseespjim)
----
+
 ## Languages
 
 - **Spanish:** Native
