@@ -7,28 +7,6 @@ A 20-year-old young programmer, educated, professional, and responsible at work.
 
 ---
 
-## Education
-
-- **Vocational Training in Multiplatform Application Development**
-  - *IES Portada Alta, Málaga*
-
-- **Technological A-levels**
-  - *IES Camilo José Cela, Campillos, Málaga*
-
-- **Graphic Design (Freelance)**
-  - *2020 - 2022*
-
----
-
-## Work Experience
-
-- **Freelance in Graphic Design**
-  - Logo creation
-  - Thumbnail creation
-  - Video editing
-
----
-
 ## Skills
 
 - **Programming Languages**
@@ -48,15 +26,27 @@ A 20-year-old young programmer, educated, professional, and responsible at work.
 
 ---
 
+## Education
+
+- **Vocational Training in Multiplatform Application Development**
+  - *IES Portada Alta, Málaga*
+
+- **Technological A-levels**
+  - *IES Camilo José Cela, Campillos, Málaga*
+
+- **Graphic Design (Freelance)**
+  - *2020 - 2022*
+
+---
+
+## Contact
+
+**Email:** armandoespi25@gmail.com
+**LinkedIn:** [linkedin.com/in/joseespjim](https://www.linkedin.com/in/joseespjim)
+
+
 ## Languages
 
 - **Spanish:** Native
 - **English:** B1
 - **French:** A1
-
----
-
-## Additional
-
-- **Driver’s license** and **own vehicle**
-
