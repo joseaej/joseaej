@@ -4,15 +4,15 @@ My name is jose , I am a 20-year-old young programmer, educated, professional, a
 
 ## Skills
 
-- **Programming Languages - Java, C#, Kotlin**
+- **Programming Languages - ![Java]Java, ![C#]C#, ![Kotlin]Kotlin , ![Dart] Dart**
 
-- **Mobile Development - Flutter, Kotlin**
+- **Mobile Development - ![Flutter]Flutter, ![Kotlin]Kotlin**
 
-- **Version Control - Git, GitHub**
+- **Version Control - ![C]Git, ![GitHub]GitHub**
 
-- **Databases - SQL, MongoDB**
+- **Databases - ![SQL]SQL, ![MongoDB]MongoDB**
 
-- **Cloud Services - AWS, Docker**
+- **Cloud Services - ![AWS]AWS, ![Docker]Docker**
   
 ## Education
 
