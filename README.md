@@ -16,5 +16,5 @@ My name is **Jose**, I am a 20-year-old young programmer, educated, professional
 
 ## Show more
 
-Discover more about my projects and passions on my website : [here]([https://joseaej.github.io/porfolio.github.io/](https://jose-armando-github-io.vercel.app/))
+Discover more about my projects and passions on my website : [here](https://jose-armando-github-io.vercel.app/)
 
